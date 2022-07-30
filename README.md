@@ -1,0 +1,1 @@
+# LightningChart<sup>&#174;</sup> JS React example
